@@ -83,13 +83,56 @@
   <img src="https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=C084FC" alt="Android Studio">
 </p>
 
-```text
-╭────────────────────────────────────────────╮
-│  NEN OUTPUT      ████████████████░░  88%  │
-│  DEVELOPMENT     █████████████████░  92%  │
-│  CURIOSITY       ██████████████████  100% │
-│  LEARNING        ██████████████████  ∞    │
-╰────────────────────────────────────────────╯
+---
 
+<h2 align="center">🐍 CONTRIBUTION // GODSPEED TRAIL</h2>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/WyshalZyren/WyshalZyren/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/WyshalZyren/WyshalZyren/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/WyshalZyren/WyshalZyren/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
+---
+---
+
+<h2 align="center">📡 CONNECT // TRANSMISSION</h2>
+
+<p align="center">
+  <a href="https://github.com/WyshalZyren">
+    <img
+      src="https://img.shields.io/badge/GitHub-WyshalZyren-0D1117?style=for-the-badge&logo=github&logoColor=C084FC"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/rendzone.kp">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=C084FC"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
+---
+<div align="center">
+
+### `GODSPEED // SYSTEM ONLINE`
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%3E+Keep+learning...;%3E+Keep+building...;%3E+Keep+improving...;%3E+Next+mission+loading..."
+  alt="Footer Animation"
+/>
+
+</div>
