@@ -23,10 +23,6 @@
 
 ### `「 CODE • CREATE • EVOLVE 」`
 
-<sub>
-Building software, exploring new technologies, and leveling up one project at a time.
-</sub>
-
 </div>
 
 ---
@@ -49,16 +45,12 @@ Building software, exploring new technologies, and leveling up one project at a 
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=C084FC" alt="PHP">
 </p>
 
-<br>
-
 ###  WEB DEVELOPMENT
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=C084FC" alt="HTML5">
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=C084FC" alt="PHP">
 </p>
-
-<br>
 
 ###  DATABASE // BACKEND
 
@@ -68,8 +60,6 @@ Building software, exploring new technologies, and leveling up one project at a 
   <img src="https://img.shields.io/badge/Backend_Development-0D1117?style=for-the-badge&logo=serverfault&logoColor=C084FC" alt="Backend Development">
 </p>
 
-<br>
-
 ###  APP DEVELOPMENT
 
 <p>
@@ -77,16 +67,12 @@ Building software, exploring new technologies, and leveling up one project at a 
   <img src="https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=C084FC" alt="Android Studio">
 </p>
 
-<br>
-
 ###  HARDWARE // EMBEDDED SYSTEMS
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=C084FC" alt="Arduino">
   <img src="https://img.shields.io/badge/Embedded_Systems-0D1117?style=for-the-badge&logo=espressif&logoColor=C084FC" alt="Embedded Systems">
 </p>
-
-<br>
 
 ###  DEVELOPMENT TOOLS
 
@@ -96,8 +82,6 @@ Building software, exploring new technologies, and leveling up one project at a 
   <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC" alt="VS Code">
   <img src="https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=C084FC" alt="Android Studio">
 </p>
-
-<br>
 
 ```text
 ╭────────────────────────────────────────────╮
