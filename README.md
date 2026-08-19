@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Wyshal Zyren</h1>
 
 <h3 align="center">
-  App Developer • Web Developer • Programmer
+  Aspirant • Full Stack Web Developer • Programmer
 </h3>
 
 <p align="center">
