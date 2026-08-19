@@ -21,4 +21,4 @@ Name     : Wyshal Zyren
 Role     : Developer
 Type     : App Dev • Web Dev • Programmer
 Languages: Python • HTML • Kotlin • C# • C++
-Status   : Always learning ⚡
+Status   : Learning ⚡
