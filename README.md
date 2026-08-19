@@ -85,7 +85,7 @@
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION // GODSPEED TRAIL</h2>
+<h2 align="center"> CONTRIBUTION // GODSPEED TRAIL</h2>
 
 <p align="center">
   <picture>
