@@ -1,12 +1,15 @@
 <div align="center">
 
-#  WYSHAL ZYREN 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=1&pause=999999&color=00E5FF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=%E2%9A%A1+WYSHAL+ZYREN+%E2%9A%A1"
+    alt="Wyshal Zyren"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=App+Developer;Web+Developer;Programmer" alt="Typing SVG">
 </p>
-
-<br>
 
 ### 「 Code • Create • Evolve 」
 
