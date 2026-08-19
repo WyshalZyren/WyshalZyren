@@ -1,11 +1,10 @@
 <div align="center">
 
-# ⚡ WYSHAL ZYREN ⚡
+#  WYSHAL ZYREN 
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=App+Developer;Web+Developer;Programmer;Building+things+one+line+at+a+time+⚡"
-  alt="Typing SVG"
-/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=App+Developer;Web+Developer;Programmer" alt="Typing SVG">
+</p>
 
 <br>
 
@@ -20,9 +19,9 @@
 
 ---
 
-## ⚡ SYSTEM // TECH ARSENAL
+##  SYSTEM // TECH ARSENAL
 
-<h3>⌨️ Programming Languages</h3>
+<h3> Programming Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF">
@@ -32,7 +31,7 @@
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00E5FF">
 </p>
 
-<h3>🌐 Web & Database</h3>
+<h3> Web & Database</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00E5FF">
@@ -40,7 +39,7 @@
   <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=databricks&logoColor=00E5FF">
 </p>
 
-<h3>🔌 Hardware & Embedded</h3>
+<h3> Hardware & Embedded</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00E5FF">
