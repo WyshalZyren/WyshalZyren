@@ -11,3 +11,14 @@
 <p align="center">
   Code. Create. Evolve. ⚡
 </p>
+
+---
+
+## ⚡ Hunter Profile
+
+```text
+Name     : Wyshal Zyren
+Role     : Developer
+Type     : App Dev • Web Dev • Programmer
+Languages: Python • HTML • Kotlin • C# • C++
+Status   : Always learning ⚡
